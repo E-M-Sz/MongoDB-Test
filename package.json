@@ -1,0 +1,23 @@
+{
+  "name": "vault",
+  "version": "1.0.0",
+  "description": "My App",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E-M-Sz/MongoDB-Test.git"
+  },
+  "author": "hEAVEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/E-M-Sz/MongoDB-Test/issues"
+  },
+  "homepage": "https://github.com/E-M-Sz/MongoDB-Test#readme",
+  "dependencies": {
+    "mocha": "^3.2.0",
+    "mongoose": "^4.9.1"
+  }
+}
